@@ -1,1 +1,2 @@
 # machine_learning_course
+https://www.kaggle.com/datasets/uciml/aps-failure-at-scania-trucks-data-set
